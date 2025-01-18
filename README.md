@@ -3,3 +3,8 @@ This project demonstrates a pharmacy messaging system using Spring Boot, JMS, an
 
 # Disclaimer
 The code provided in this project is solely written as an example for learning purposes. It is original and not copied from any external source. The design and implementation are tailored to demonstrate a real-world healthcare pharmacy scenario.
+
+# Install the IBM MQ Server (local)
+This IBM MQ Server will be used to handle middleware messaging system for this project.
+Source: https://developer.ibm.com/tutorials/mq-connect-app-queue-manager-windows/
+
